@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+.graficos {
+    display: flex;
+}
+
+
+canvas {
+    position: relative;
+    height: 40vh;
+    width: 50vw;
+}
