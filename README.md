@@ -1,6 +1,6 @@
 # Atividade Gráficos com ChartJS
 
-Projeto de uma página com gráficos feitos com a biblioteca chartJS.
+Projeto de uma página com gráficos feitos com a biblioteca ChartJS.
 
 ## Aprendizados
 
